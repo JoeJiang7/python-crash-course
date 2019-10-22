@@ -1,0 +1,3 @@
+In Python you can make games
+In Python you can search information
+In Python you can make data visualizations
